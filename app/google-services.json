@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319762979675",
+    "project_id": "kiezsammler",
+    "storage_bucket": "kiezsammler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319762979675:android:b33c7f105c204d741fd87e",
+        "android_client_info": {
+          "package_name": "com.example.kiezsammler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqTeUGi7ScvD1vU4hssjfqFysgbXGDdpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
