@@ -2,4 +2,12 @@
     <string name="app_name">Kiezsammler</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="passwort">Passwort</string>
+    <string name="logo_kiezautor">Logo Kiezautor</string>
+    <string name="login">Login</string>
+    <string name="registrieren">Registrieren</string>
+    <string name="ohne_login">ohne Login</string>
+    <string name="google_login">Google Login</string>
+    <string name="facebook_login">Facebook Login</string>
 </resources>
