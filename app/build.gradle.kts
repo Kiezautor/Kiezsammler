@@ -55,4 +55,5 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     implementation(platform("com.google.firebase:firebase-bom:32.8.0"))
     implementation("com.google.firebase:firebase-analytics")
+    implementation ("io.pokemontcg:pokemon-tcg-sdk-kotlin:{latest}")
 }
